@@ -15,7 +15,6 @@ Whether you're obsessed with Go, fascinated by market trends, or just want smoot
 - **Grid-Based Navigation**: Navigate like a pro! Our intuitive controls make zooming and panning feel like second nature. 🧭
 - **High Customization**: Like everything in life, your charts should be exactly how you want them. Customize all the things.
 - **Relatively Good Performance**: Well, it's *relatively* good. Don't push it.
-- **Written in Go**: I mean, who doesn’t love Go? Go is life. Go is love. 🐹
 - **Help Page**: Yes, you heard it. We even have a help page. No one's using it, but it's there.
 
 ## Still To-Do (Because, let’s face it, it’s not *actually* finished):
